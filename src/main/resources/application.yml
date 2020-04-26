@@ -1,0 +1,9 @@
+server:
+  port: 8889
+  servlet:
+    context-path: /get
+
+
+system:
+  huiCalculatedOrderUrl: http://localhost:8888
+  id: 10
